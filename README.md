@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olieko20
-- 👀 I’m interested in R and Python programmng
+- 👀 I’m interested in R and Python programming
 - 🌱 I’m currently learning R and Python for Data Science
 - 💞️ I’m looking to collaborate on R and Python projects and discoveries
 - 📫 How to reach me: Tweeter @olieko_sulman
